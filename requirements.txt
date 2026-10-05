@@ -1,0 +1,4 @@
+wxPython>=4.2
+pyicloud==2.6.5
+keyring>=24
+winfspy==0.8.4

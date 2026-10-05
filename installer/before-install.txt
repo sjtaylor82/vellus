@@ -1,0 +1,9 @@
+
+Vellus is an independent project. It is not affiliated with, endorsed by, or supported by Apple Inc. It talks to iCloud through an unofficial interface that Apple does not publish or support, and which could stop working or, in principle, lead Apple to restrict an account that uses it. Keep backups of anything important.
+
+The drive letter is provided by WinFsp, a free, open-source Windows component. If WinFsp is not already on this PC, Setup installs it next, and Windows will ask for your permission. If WinFsp is already installed, it is left as it is.
+
+WinFsp - Windows File System Proxy, Copyright (C) Bill Zissimopoulos
+https://github.com/winfsp/winfsp
+
+Vellus itself installs for your Windows account only and does not need administrator rights.

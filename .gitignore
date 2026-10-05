@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# PyInstaller output and its generated spec
+build/
+dist/
+dist-next/
+*.spec
+
+# Inno Setup output
+installer/Output/
+
+# Local tooling
+.claude/
